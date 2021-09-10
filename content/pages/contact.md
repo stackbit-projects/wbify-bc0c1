@@ -29,7 +29,7 @@ sections:
         default_value: Please select
         options:
           - Shopify
-          - Design
+          - Wordpress
           - Digital
       - input_type: textarea
         name: message
