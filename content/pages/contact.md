@@ -30,7 +30,7 @@ sections:
         options:
           - Shopify
           - Wordpress
-          - Digital
+          - Design
       - input_type: textarea
         name: message
         label: Message
