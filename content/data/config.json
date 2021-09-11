@@ -52,14 +52,6 @@
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false
-            },
-            {
-                "label": "Portfolio",
-                "url": "portfolio",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false
             }
         ]
     }
