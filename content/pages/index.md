@@ -80,5 +80,11 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
 layout: advanced
 ---
