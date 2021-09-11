@@ -38,12 +38,7 @@ sections:
         content: >
           Have strong command on Shopify and VA for Amazon Stores management
           including product hunting.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        actions: []
       - title: Mugheez
         image: images/team-3.png
         subtitle: WordPress Developer
