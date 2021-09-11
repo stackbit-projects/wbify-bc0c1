@@ -67,12 +67,7 @@ sections:
         content: >
           Graphics are my ambition, Using the adobe family product I design
           amazing graphics including Web Designs.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        actions: []
       - title: Qasid
         subtitle: Shopify Developer
         image_alt: lorem-ipsum
