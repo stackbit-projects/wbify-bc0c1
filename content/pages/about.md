@@ -78,7 +78,7 @@ sections:
             style: icon
             icon: instagram
             new_window: true
-      - title: Brandon Guidelines
+      - title: Usama
         image: images/team-5.png
         subtitle: Graphic Designer
         content: >-
