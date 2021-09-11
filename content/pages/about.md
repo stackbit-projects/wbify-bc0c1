@@ -35,8 +35,9 @@ sections:
       - title: Athar
         image: images/team-2.png
         subtitle: Shopify Developer
-        content: |
-          Have strong command on Shopify and VA for Amazon Stores management.
+        content: >
+          Have strong command on Shopify and VA for Amazon Stores management
+          including product hunting.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
