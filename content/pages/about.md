@@ -61,7 +61,7 @@ sections:
             style: icon
             icon: instagram
             new_window: true
-      - title: Mugheez
+      - title: Qasid
         image: images/team-4.png
         subtitle: 'Senior Designer, Motion Graphics'
         content: >-
