@@ -23,9 +23,9 @@ sections:
       - title: Azam Gill
         image: images/team-1.png
         subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+        content: >
+          A long journey from freelancer to frontend developer, graphic
+          designer, WordPress developer then Shopify developer.  
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
