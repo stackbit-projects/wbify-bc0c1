@@ -64,9 +64,9 @@ sections:
       - title: Usama
         image: images/team-5.png
         subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
+        content: >
+          Graphics are my ambition, Using the adobe family product I design
+          amazing graphics including Web Designs.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
