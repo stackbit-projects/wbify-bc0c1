@@ -85,7 +85,7 @@ sections:
     col_number: three
     grid_items:
       - title: Vance Graphix Prints
-        subtitle: lorem-ipsum
+        subtitle: Australia
         image_alt: lorem-ipsum
         actions: []
         image: /images/vgp.png
