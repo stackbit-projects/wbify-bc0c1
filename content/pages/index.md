@@ -99,6 +99,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: /images/vgp.png
     type: grid_section
 layout: advanced
 ---
