@@ -10,4 +10,5 @@ seo:
   robots: []
   extra: []
 layout: project
+thumb_image: /images/VGP-Logo_Final-01.jpg
 ---
