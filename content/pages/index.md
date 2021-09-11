@@ -65,8 +65,8 @@ sections:
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Vance have been amazing and very patient. Takes time to understand
+          individual needs. Will definitely use them again
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
