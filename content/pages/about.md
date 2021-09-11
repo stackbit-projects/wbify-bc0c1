@@ -74,7 +74,7 @@ sections:
             icon: twitter
             new_window: true
       - title: Qasid
-        subtitle: lorem-ipsum
+        subtitle: Shopify Developer
         image_alt: lorem-ipsum
         actions: []
   - type: cta_section
