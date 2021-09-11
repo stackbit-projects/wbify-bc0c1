@@ -61,18 +61,6 @@ sections:
             style: icon
             icon: instagram
             new_window: true
-      - title: Qasid
-        image: images/team-4.png
-        subtitle: Shopify Developer
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
       - title: Usama
         image: images/team-5.png
         subtitle: Graphic Designer
