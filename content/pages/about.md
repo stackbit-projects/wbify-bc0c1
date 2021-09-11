@@ -46,7 +46,7 @@ sections:
             new_window: true
       - title: Qasid
         image: images/team-3.png
-        subtitle: Creative Producer
+        subtitle: WordPress Developer
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
