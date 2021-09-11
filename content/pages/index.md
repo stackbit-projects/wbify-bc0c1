@@ -87,7 +87,7 @@ sections:
     subtitle: lorem-ipsum
     layout_style: mosaic
     projects_number: 100
-    view_all_label: lorem-ipsum
+    view_all_label: More
     view_all_url: '#'
     type: portfolio_section
 layout: advanced
