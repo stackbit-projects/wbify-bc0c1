@@ -50,12 +50,7 @@ sections:
         content: >
           I love to building simple and effective websites. Always a good team
           player and love the work on challenges.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
+        actions: []
       - title: Usama
         image: images/team-5.png
         subtitle: Graphic Designer
