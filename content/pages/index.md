@@ -54,10 +54,7 @@ sections:
     subtitle: What our Clients say
     col_number: three
     testimonials:
-      - author: >-
-          Amazing, very easy to communicate with, very accommodating. Pricing
-          very competitive. I would definitely recommend wbify. The outcome was
-          exactly what I wanted and the turn around time was extremely fast.
+      - author: David
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A Company'
         content: >-
