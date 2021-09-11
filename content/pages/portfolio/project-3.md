@@ -70,4 +70,5 @@ seo:
       value: images/work-book-cover-1.jpg
       relativeUrl: true
 layout: project
+thumb_image: /images/Prestige-income-700.jpg
 ---
