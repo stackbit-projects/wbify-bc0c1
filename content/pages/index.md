@@ -87,8 +87,6 @@ sections:
       - title: Vance Graphix Prints
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: |
-          *
         actions: []
         image: /images/vgp.png
     type: grid_section
