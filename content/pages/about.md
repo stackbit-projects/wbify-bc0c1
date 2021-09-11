@@ -34,7 +34,7 @@ sections:
             new_window: true
       - title: Athar
         image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: Shopify Developer
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
