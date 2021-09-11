@@ -10,4 +10,5 @@ seo:
   robots: []
   extra: []
 layout: project
+thumb_image: /images/Prestige-income-700.jpg
 ---
