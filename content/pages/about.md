@@ -35,9 +35,8 @@ sections:
       - title: Athar
         image: images/team-2.png
         subtitle: Shopify Developer
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
+        content: |
+          Have strong command on Shopify and VA for Amazon Stores management.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
