@@ -91,4 +91,9 @@ sections:
         image: /images/vgp.png
     type: grid_section
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
