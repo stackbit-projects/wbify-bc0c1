@@ -89,6 +89,12 @@ sections:
     hide_labels: false
     submit_label: lorem-ipsum
     type: form_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items: []
+    type: grid_section
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
