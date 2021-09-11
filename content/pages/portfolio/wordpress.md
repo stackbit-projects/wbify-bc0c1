@@ -3,7 +3,11 @@ title: WordPress
 subtitle: Hello
 date: '2021-09-11'
 thumb_image_alt: lorem-ipsum
-sections: []
+sections:
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   title: ''
   description: ''
