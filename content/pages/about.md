@@ -47,9 +47,9 @@ sections:
       - title: Mugheez
         image: images/team-3.png
         subtitle: WordPress Developer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
+        content: >
+          I love to building simple and effective websites. Always a good team
+          player and love the work on challenges.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
