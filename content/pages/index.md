@@ -84,7 +84,7 @@ sections:
     title: Our Partners
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: 'Vance Graphix '
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
