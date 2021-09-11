@@ -44,7 +44,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - title: Qasid
+      - title: Mugheez
         image: images/team-3.png
         subtitle: WordPress Developer
         content: >-
