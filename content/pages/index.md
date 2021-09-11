@@ -92,7 +92,7 @@ sections:
     type: grid_section
 layout: advanced
 seo:
-  title: ''
+  title: Shopify and WordPress Development
   description: ''
   robots: []
   extra: []
