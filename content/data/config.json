@@ -41,7 +41,7 @@
     "domain": "https://wbify-bc0c1.netlify.app",
     "header": {
         "title": "Wbify",
-        "logo_alt": "lorem-ipsum",
+        "logo_alt": "https://wbify.com/",
         "has_nav": true,
         "nav_links": [
             {
