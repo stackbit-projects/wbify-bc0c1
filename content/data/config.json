@@ -2,7 +2,7 @@
     "title": "Wbify - Shopify - WordPress",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "green",
+    "accent_color": "blue",
     "base_font": "fraunces",
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=agency&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
