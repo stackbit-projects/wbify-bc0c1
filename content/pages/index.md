@@ -62,7 +62,6 @@ sections:
           very competitive. I would definitely recommend wbify. The outcome was
           exactly what I wanted and the turn around time was extremely fast.
       - author: Dianne Ameter
-        avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
         content: >-
