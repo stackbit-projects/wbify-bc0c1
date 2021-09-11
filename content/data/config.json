@@ -55,7 +55,7 @@
             },
             {
                 "label": "Portfolio",
-                "url": "#",
+                "url": "portfolio",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
