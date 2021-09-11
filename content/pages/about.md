@@ -63,7 +63,7 @@ sections:
             new_window: true
       - title: Qasid
         image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
+        subtitle: Shopify Developer
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
