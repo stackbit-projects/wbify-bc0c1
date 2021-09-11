@@ -77,6 +77,7 @@ sections:
         subtitle: Shopify Developer
         image_alt: lorem-ipsum
         actions: []
+        image: /images/team-5.png
   - type: cta_section
     section_id: cta
     title: Become a Team Player
