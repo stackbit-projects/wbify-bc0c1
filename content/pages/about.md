@@ -56,11 +56,6 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
       - title: Usama
         image: images/team-5.png
         subtitle: Graphic Designer
