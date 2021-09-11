@@ -12,7 +12,7 @@ sections:
 
     form_id: contactForm
     form_action: /thank-you
-    data-netlify: "true"
+    data-netlify: true"
     form_fields:
       - input_type: text
         name: name
