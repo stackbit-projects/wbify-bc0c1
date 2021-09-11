@@ -3,15 +3,14 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      We are a team of young peoples. Have great passion about help the people
+      and make good relations with the business. We are always welcome the
+      challenges you face for you business to bring it online. 
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      There are different budget for each company so that we are merged Shopify
+      and WordPress in a single roof. 
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
