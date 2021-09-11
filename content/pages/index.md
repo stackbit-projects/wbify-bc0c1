@@ -56,7 +56,7 @@ sections:
     testimonials:
       - author: David
         avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
+        position: 'CEO and founder, Modren Tech'
         content: >-
           Amazing, very easy to communicate with, very accommodating. Pricing
           very competitive. I would definitely recommend wbify. The outcome was
