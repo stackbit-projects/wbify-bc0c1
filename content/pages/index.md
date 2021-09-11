@@ -93,7 +93,9 @@ sections:
 layout: advanced
 seo:
   title: Shopify and WordPress Development
-  description: ''
+  description: >-
+    We are a Shopify and WordPress Development team. We help to build Portfolio
+    websites, landing pages, Online stores in Australia, Canada and Pakistan.
   robots: []
   extra: []
 ---
