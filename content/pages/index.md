@@ -5,9 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: This is an Agency Based in Pakistan and Focusing on Shopify Custom Stores.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
+    content: >
+      Wbify, old team with new name, reliable and the trustworthy name in the
+      world of web development and have helped a number of brands in designing
+      and developing their websites. Whether it comes to the Shopify or
+      WordPress web design we can fulfil all your needs. [Let's
       talk](/contact/).
   - type: grid_section
     section_id: services
