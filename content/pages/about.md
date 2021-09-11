@@ -73,7 +73,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-      - title: lorem-ipsum
+      - title: Qasid
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         actions: []
