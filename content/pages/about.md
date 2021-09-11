@@ -80,8 +80,7 @@ sections:
         image: /images/team-5.png
         content: >
           A passionate Web developer. Having good grip on Liquid I can develop
-          custom Shopify themes and modification to any exiting website. Along
-          with Shopify I am good at Search Engine Optimization.
+          custom Shopify themes upgradation and new themes.
   - type: cta_section
     section_id: cta
     title: Become a Team Player
