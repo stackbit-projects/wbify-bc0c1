@@ -63,7 +63,7 @@ sections:
           exactly what I wanted and the turn around time was extremely fast.
       - author: Dianne Ameter
         avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
+        position: 'CTO, '
         content: >-
           Wbify have been amazing and very patient. Takes time to understand
           individual needs. Will definitely use them again
