@@ -32,7 +32,7 @@ sections:
             icon: twitter
             new_window: true
       - title: Athar
-        image: images/team-2.png
+        image: /images/athar.jpeg
         subtitle: Shopify Developer
         content: >
           Have strong command on Shopify and VA for Amazon Stores management
