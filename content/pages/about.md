@@ -21,7 +21,7 @@ sections:
     grid_items:
       - title: Azam Gill
         image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: Senior Developer
         content: >
           A long journey from freelancer to frontend developer, graphic
           designer, WordPress developer then Shopify developer.  
